@@ -144,7 +144,8 @@ This project is created as a fun and educational tool for beginners to:
 
  * Learn and practice web development basics.  
  * Understand JavaScript concepts like `localStorage` and event handling.
-
+## 🏆 Show Your Support  
+⭐ Star this repository if you found it fun and helpful!
 
 # Happy Coding! 💻
 
